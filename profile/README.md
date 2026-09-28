@@ -4,7 +4,7 @@
 
 <h1 align="center">Philomata</h1>
 
-<p align="center"><i>fi·lo·MA·ta</i> — quien ama aprender · <i>one who loves learning</i></p>
+<p align="center"><i>fi·lo·ma·ta</i> — quien ama aprender · <i>one who loves learning</i></p>
 
 ---
 
